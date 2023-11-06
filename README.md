@@ -1,5 +1,8 @@
 # PortfolioProjects
 
+Python_Pandas_SQL_Retention
+https://colab.research.google.com/drive/1FLv4nM4y0ATQLpr_-rfoIBp6byrgisvQ?usp=sharing
+
 Python_SQL_Sankey_Diagram
 https://colab.research.google.com/drive/1Ry4WsWentuGGVqypK-xuXzDh4muVrmvH?usp=sharing
 
